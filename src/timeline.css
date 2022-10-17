@@ -1,0 +1,15 @@
+.feeds{
+    width: 100%;
+    height: auto;
+    background-color: rgb(177, 177, 246);
+    border-radius: 10px;
+}
+.posts{
+    margin: 10px;
+    padding: 10px;
+}
+.feeds img{
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+}
